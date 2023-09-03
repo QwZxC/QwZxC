@@ -15,4 +15,4 @@
 </div>
 
 # My current project:
-<a href="https://github.com/QwZxC/MedicineProjectAPI" src="https://github.com/QwZxC/MedicineProjectAPI"/>
+<a href="https://github.com/QwZxC/MedicineProjectAPI"> MedicineProjectAPI </a>
