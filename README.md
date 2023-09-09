@@ -21,4 +21,4 @@
 
 ## Contacts
 - E-mail: [mihail.vaginkpc592020@gmail.com](mailto:mihail.vaginkpc592020@gmail.com)
-- Telegram: [Mikhail]((https://t.me/Stop_Fuck_My_Brain))
+- Telegram: [Mikhail](https://t.me/Stop_Fuck_My_Brain)
