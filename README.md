@@ -22,3 +22,9 @@
 ## Contacts
 - E-mail: [mihail.vaginkpc592020@gmail.com](mailto:mihail.vaginkpc592020@gmail.com)
 - Telegram: [Mikhail](https://t.me/Stop_Fuck_My_Brain)
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QwZxC&theme=solarized_dark)
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QwZxC&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QwZxC&theme=solarized_dark)
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QwZxC&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QwZxC&theme=solarized_dark)
