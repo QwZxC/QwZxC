@@ -18,3 +18,7 @@
 <a href="https://github.com/QwZxC/MedicineProjectAPI"> MedicineProjectAPI </a>
 
 ## BTW i had experience with MSSQL SERVER, SQLite, WPF.
+
+## Contacts
+- E-mail: [mihail.vaginkpc592020@gmail.com](mailto:mihail.vaginkpc592020@gmail.com)
+- Telegram: [Mikhail]((https://t.me/Stop_Fuck_My_Brain))
