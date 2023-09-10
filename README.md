@@ -14,13 +14,13 @@
 </div>
 
 # My current project:
-# <a href="https://github.com/QwZxC/MedicineProjectAPI"> MedicineProjectAPI </a>
+### <a href="https://github.com/QwZxC/MedicineProjectAPI"> MedicineProjectAPI </a>
 
 ## BTW i had experience with MSSQL SERVER, SQLite, WPF.
 
 ## Contacts
-- E-mail: [mihail.vaginkpc592020@gmail.com](mailto:mihail.vaginkpc592020@gmail.com)
-- Telegram: [Mikhail](https://t.me/Stop_Fuck_My_Brain)
+### - E-mail: [mihail.vaginkpc592020@gmail.com](mailto:mihail.vaginkpc592020@gmail.com)
+### - Telegram: [Mikhail](https://t.me/Stop_Fuck_My_Brain)
 
 ## Some info
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QwZxC&theme=solarized_dark)
