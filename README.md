@@ -18,7 +18,7 @@
 </div>
 
 # My current project:
-### <a href="https://github.com/QwZxC/MedicineProjectAPI"> MedicineProjectAPI </a>
+### I don't have projects for github now :(
 
 ## BTW i had experience with MSSQL SERVER, SQLite, WPF.
 
