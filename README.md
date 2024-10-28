@@ -1,5 +1,5 @@
 # Hi there 👋
-## My name is Mikhail. I'm a back-end eveloper. 18 years old.
+## My name is Mikhail. I'm a back-end eveloper. 19 years old.
 # My skils: 
 <div align="center">
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
